@@ -2,7 +2,6 @@
 
 Un dashboard web open-source pour travailler avec des assistants IA - alternative auto-hebergee au "Claude Cowork" d'Anthropic.
 
-![Dashboard](screenshot.png)
 
 ## 🚀 117 Compétences Hermes
 
